@@ -43,3 +43,4 @@ DevTools listening on ws://127.0.0.1:63418/devtools/browser/309cc486-231a-4f09-9
 1707130263888	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tutorialsninja.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tutorialsninja.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
