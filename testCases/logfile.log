@@ -1,0 +1,22 @@
+
+2024-02-05 15:20:07,671 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration started ***
+2024-02-05 15:20:09,867 : INFO :Framework2.utility.customerLogger :Launching application
+2024-02-05 15:20:38,573 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration ended ***
+2024-02-05 15:24:44,865 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration started ***
+2024-02-05 15:25:36,047 : INFO :Framework2.utility.customerLogger :Launching application
+2024-02-05 15:25:45,179 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration ended ***
+2024-02-05 15:57:59,354 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration started ***
+2024-02-05 15:58:09,245 : INFO :Framework2.utility.customerLogger :Launching application
+2024-02-05 15:58:17,437 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration ended ***
+2024-02-05 15:59:02,675 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration started ***
+2024-02-05 15:59:03,607 : INFO :Framework2.utility.customerLogger :Launching application
+2024-02-05 15:59:28,108 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration ended ***
+2024-02-05 16:00:28,236 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration started ***
+2024-02-05 16:01:07,159 : INFO :Framework2.utility.customerLogger :Launching application
+2024-02-05 16:01:14,727 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration ended ***
+2024-02-05 16:17:33,643 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration started ***
+2024-02-05 16:18:14,520 : INFO :Framework2.utility.customerLogger :Launching application
+2024-02-05 16:18:18,775 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration ended ***
+2024-02-05 16:20:38,259 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration started ***
+2024-02-05 16:20:59,709 : INFO :Framework2.utility.customerLogger :Launching application
+2024-02-05 16:21:12,411 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration ended ***
