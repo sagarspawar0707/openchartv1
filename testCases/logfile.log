@@ -20,3 +20,8 @@
 2024-02-05 16:20:38,259 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration started ***
 2024-02-05 16:20:59,709 : INFO :Framework2.utility.customerLogger :Launching application
 2024-02-05 16:21:12,411 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration ended ***
+2024-02-05 22:11:26,160 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration started ***
+2024-02-05 22:11:28,230 : INFO :Framework2.utility.customerLogger :Launching application
+2024-02-05 22:15:21,670 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration started ***
+2024-02-05 22:15:45,180 : INFO :Framework2.utility.customerLogger :Launching application
+2024-02-05 22:16:00,125 : INFO :Framework2.utility.customerLogger :*** test_001_AccountRegistration ended ***
